@@ -1,4 +1,9 @@
-faltan los Node Modules!!
-fijate que lo hice con Request_promise, que al menos a mi no me los
-instalo el npm install.
-asi que te dejo el rar aca
+La Api que usé labura con coordenadas asi los parámetros "legales" son:
+Longitud => (-180;180)
+Latitud => (-89;89) [no sé por qué no toma el 90]
+
+
+Naturalmente faltan los Node Modules, pero fijate que
+lo hice con Request_promise, que al menos a mi no me los
+instalo el npm install. 
+Asi que te dejo el rar del modulo aca porlas
